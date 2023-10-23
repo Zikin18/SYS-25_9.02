@@ -55,7 +55,7 @@ systemctl enable zabbix-server zabbix-agent nginx php8.1-fpm
 ![2-1](https://github.com/Zikin18/SYS-25_9.02/blob/master/2-1.png)
 ![2-2](https://github.com/Zikin18/SYS-25_9.02/blob/master/2-2.png)
 ![2-3](https://github.com/Zikin18/SYS-25_9.02/blob/master/2-3.png)
-![2-4](https://github.com/Zikin18/SYS-25_9.02/blob/master/2-3.png)
+![2-4](https://github.com/Zikin18/SYS-25_9.02/blob/master/2-4.png)
 
 Zabbix Agent ставится на Windows иным способом.
 ---
